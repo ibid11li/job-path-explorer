@@ -1,0 +1,4 @@
+pandas
+gradio
+scikit-learn
+sentence-transformers
