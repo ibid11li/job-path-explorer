@@ -1,4 +1,4 @@
 pandas
-gradio
+streamlit
 scikit-learn
 sentence-transformers
